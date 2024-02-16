@@ -1,0 +1,13 @@
+Package: ziptest
+Title: tests zip problems on WIN DEVEL
+Version: 0.0.0.9000
+Authors@R: 
+    person("Stefan", "Mayer", , "stefan@mayer-de.com", role = c("aut", "cre"))
+Description: tests zip problems on WIN DEVEL. not a real package.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: 
+    R.utils,
+    utils
